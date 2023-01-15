@@ -154,3 +154,14 @@ hr {
 .showcase-blog {
   padding-bottom: 6rem;
 }
+
+.blog{
+  width: 90%;
+  height: 3rem;
+  background-color: #a8e69a !important;
+  /* margin: 2rem;
+   */
+   margin-left: 3rem;
+   margin-bottom: 2rem;
+   padding: 1rem;
+}
